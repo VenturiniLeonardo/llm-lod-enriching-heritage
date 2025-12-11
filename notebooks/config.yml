@@ -1,9 +1,9 @@
 museum:
   name: egizio
-  file_name: input_em.csv
+  file_name: automobile.csv
   data_source: EMT
-  id_column_name: Inventory Number
-  text_column_name: Description
+  id_column_name: n_inventario
+  text_column_name: text
   labels:
     - PERSON
     - LOCATION
